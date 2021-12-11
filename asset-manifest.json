@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/cbarnes1232/REACT/static/css/main.719acc28.chunk.css",
+    "main.js": "/cbarnes1232/REACT/static/js/main.431d4a84.chunk.js",
+    "main.js.map": "/cbarnes1232/REACT/static/js/main.431d4a84.chunk.js.map",
+    "runtime-main.js": "/cbarnes1232/REACT/static/js/runtime-main.3644ae42.js",
+    "runtime-main.js.map": "/cbarnes1232/REACT/static/js/runtime-main.3644ae42.js.map",
+    "static/js/2.c2399e7c.chunk.js": "/cbarnes1232/REACT/static/js/2.c2399e7c.chunk.js",
+    "static/js/2.c2399e7c.chunk.js.map": "/cbarnes1232/REACT/static/js/2.c2399e7c.chunk.js.map",
+    "index.html": "/cbarnes1232/REACT/index.html",
+    "static/css/main.719acc28.chunk.css.map": "/cbarnes1232/REACT/static/css/main.719acc28.chunk.css.map",
+    "static/js/2.c2399e7c.chunk.js.LICENSE.txt": "/cbarnes1232/REACT/static/js/2.c2399e7c.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.3644ae42.js",
+    "static/js/2.c2399e7c.chunk.js",
+    "static/css/main.719acc28.chunk.css",
+    "static/js/main.431d4a84.chunk.js"
+  ]
+}
